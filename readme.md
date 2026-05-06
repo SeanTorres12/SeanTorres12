@@ -1,13 +1,10 @@
-## Olá, eu sou o Sean Torres 👋
+# Olá, eu sou o Sean Torres 👋
 
-🎓 Sistemas de Informação — UNICAMP (FT/Limeira)
-🔬 Pesquisador PIBIC/CNPq — Previsão de qualidade do ar com ML
-📍 Limeira, SP
+🎓 Sistemas de Informação — UNICAMP (FT/Limeira)  
+🔬 Pesquisador PIBIC/CNPq  
+📍 Limeira, SP  
 
-### O que eu faço
-- Machine Learning aplicado a dados ambientais (MERRA-2, CAMS)
-- Modelos Random Forest e LSTM para predição de PM2.5/PM10
-- Análise de importância de features com SHAP
+Trabalho com projetos de **Machine Learning aplicado a dados reais**, com foco em análise exploratória, engenharia de features, treinamento e avaliação de modelos supervisionados. Tenho experiência com validação cruzada por séries temporais, seleção e redução de dimensionalidade, e interpretabilidade de modelos via SHAP.
 
 ---
 
@@ -49,6 +46,12 @@
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+---
+
+## 📄 Publicações
+
+- **Torres, S. et al.** (2025). [Utilização de Random Forests para Predição da Concentração de Material Particulado](https://sistemas-prp.unicamp.br/inscricao-congresso/resumos/2025P24122A40468O440.pdf). *Congresso de Pesquisa — UNICAMP.*
 
 ---
 
